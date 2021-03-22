@@ -69,6 +69,9 @@ module.exports = {
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Gasper.io`,
     },
+    gtag: {
+      trackingID: 'G-CWZ1QQ8MEG',
+    },
   },
   presets: [
     [

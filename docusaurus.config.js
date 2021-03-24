@@ -51,10 +51,6 @@ module.exports = {
               label: 'Gitter',
               href: 'https://gitter.im/gasperio/community'
             },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/gasper_io',
-            },
           ],
         },
         {
@@ -67,6 +63,10 @@ module.exports = {
             {
               label: 'GitHub',
               href: 'https://github.com/gasperio/gasper',
+            },
+            {
+              label: 'Twitter',
+              href: 'https://twitter.com/gasper_io',
             },
           ],
         },

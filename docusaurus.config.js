@@ -48,6 +48,10 @@ module.exports = {
           title: 'Community',
           items: [
             {
+              label: 'Gitter',
+              href: 'https://gitter.im/gasperio/community'
+            },
+            {
               label: 'Twitter',
               href: 'https://twitter.com/gasper_io',
             },

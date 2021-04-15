@@ -1,6 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'Gasper',
+  tagline: 'Turn Docker Container Registry into Artifacts Repository',
   url: 'https://gasper.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',

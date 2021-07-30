@@ -1,1 +1,0 @@
-(self.webpackChunkgasper_io=self.webpackChunkgasper_io||[]).push([[357],{9521:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/ru/blog/tags","slug":"hello","name":"hello","count":1,"permalink":"/ru/blog/tags/hello"}')}}]);

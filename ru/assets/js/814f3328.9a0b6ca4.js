@@ -1,1 +1,0 @@
-(self.webpackChunkgasper_io=self.webpackChunkgasper_io||[]).push([[535],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Hello World","permalink":"/ru/blog/hello-world"}]}')}}]);

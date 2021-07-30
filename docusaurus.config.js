@@ -10,7 +10,6 @@ module.exports = {
   organizationName: 'gasperio',
   projectName: 'gasper',
   themeConfig: {
-    sidebarCollapsible: false,
     navbar: {
       title: 'Gasper',
       logo: {

@@ -12,5 +12,9 @@
         <id>hello-world</id>
         <link href="https://gasper.io/ru/blog/hello-world"/>
         <updated>2021-03-19T00:00:00.000Z</updated>
+        <author>
+            <name>Vadim Homchik</name>
+            <uri>https://github.com/vh</uri>
+        </author>
     </entry>
 </feed>
